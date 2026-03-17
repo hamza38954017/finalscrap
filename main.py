@@ -13,7 +13,7 @@ from urllib3.util.retry import Retry
 # ⚙️ HARDCODED CONFIGURATION (EDIT THIS)
 # ------------------------------------------------------------------
 # ⚠️ REPLACE THIS WITH YOUR EXACT PHP FILE URL FROM INFINITYFREE
-YOUR_PHP_ENDPOINT = "https://drdev.gt.tc/insert_data.php" 
+YOUR_PHP_ENDPOINT = "Api Endpoint" 
 
 # NUMBER OF THREADS (Don't go too high on Free Tier)
 CONCURRENT_THREADS = 3
